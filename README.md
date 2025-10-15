@@ -96,12 +96,3 @@ print(f"Breached: {result['is_breached']}")
 
 Built on Troy Hunt's [Have I Been Pwned](https://haveibeenpwned.com) API.
 
----
-
-<div align="center">
-
-**[⭐ Star this repo](https://github.com)** • **[🐛 Report Bug](https://github.com)** • **[💡 Request Feature](https://github.com)**
-
-Made with ❤️ for security | MIT Licensed
-
-</div>
